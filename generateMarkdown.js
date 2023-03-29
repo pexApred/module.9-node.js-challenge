@@ -50,7 +50,7 @@ function generateMarkdown(data) {
 
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributing](#contributing)
+  - [How to Contribute](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
   ${renderLicenseSection(data.license)}
