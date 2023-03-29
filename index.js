@@ -28,7 +28,7 @@ const questions = [
     {
         type: 'list',
         name: 'license',
-        Choices: ['MIT', 'GPL 3.0', 'BSD 3-Clause', 'None'],
+        choices: ['MIT', 'GPL 3.0', 'BSD 3-Clause', 'None'],
     },
     {
         type: 'input',
