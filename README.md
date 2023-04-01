@@ -11,10 +11,8 @@
   - [How to Contribute](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
+  - [License](#license)
   
-  ## License 
-    
-    This project is licensed under the MIT license. Click [here](https://opensource.org/license/mit/) for more information.
 
   ## Installation
 
@@ -24,9 +22,9 @@
 
   
 
-  ## License
-
-  MIT
+  ## License 
+    
+    This project is licensed under the MIT license. Click [here](https://opensource.org/license/mit/) for more information.
 
   ## Badges
 

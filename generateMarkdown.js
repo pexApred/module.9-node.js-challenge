@@ -53,8 +53,8 @@ function generateMarkdown(data) {
   - [How to Contribute](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
+  - [License](#license)
   
-  ${renderLicenseSection(data.license)}
 
   ## Installation
 
@@ -64,9 +64,7 @@ function generateMarkdown(data) {
 
   ${data.usage}
 
-  ## License
-
-  ${data.license}
+  ${renderLicenseSection(data.license)}
 
   ## Badges
 
