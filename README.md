@@ -9,10 +9,9 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [How to Contribute](#contributing)
+  - [License](#license)
   - [Tests](#tests)
   - [Questions](#questions)
-  - [License](#license)
-  
 
   ## Installation
 
@@ -20,7 +19,7 @@
 
   ## Usage 
 
-  Once your environment is running, type node index.js into terminal to recieve a series of prompts. Answer the prompts to the best of your abilities to ensure a high-quality README is generated at the end. Once all the prompts are provided information, your README file will be generated with the input data in its designated sections. Video will be provided for walkthrough instructions.
+  Once your environment is running, type node index.js into terminal to recieve a series of prompts. Answer the prompts to the best of your abilities to ensure a high-quality README is generated at the end. Once all the prompts are provided information, your README file will be generated with the input data in its designated sections. Video will be provided for walkthrough instructions. https://drive.google.com/file/d/1NoWUGAk3hbfcEY58gOaDyOjFWjnUxxBr/view?usp=share_link
 
   ## License 
     
